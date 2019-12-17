@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/farey-map",
+  "main": "c16b85a2dece0ccf@295.js",
+  "version": "295.0.0",
+  "homepage": "https://observablehq.com/@timhau/farey-map",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

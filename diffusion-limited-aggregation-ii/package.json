@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/diffusion-limited-aggregation-ii",
+  "main": "038b9aa9afe623ec@235.js",
+  "version": "235.0.0",
+  "homepage": "https://observablehq.com/@timhau/diffusion-limited-aggregation-ii",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
