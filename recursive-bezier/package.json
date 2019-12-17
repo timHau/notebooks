@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/recursive-bezier",
+  "main": "6770991f9c9579d3@217.js",
+  "version": "217.0.0",
+  "homepage": "https://observablehq.com/@timhau/recursive-bezier",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

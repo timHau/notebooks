@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/platonic-solids",
+  "main": "2b3d04ac5bd6ac41@1002.js",
+  "version": "1002.0.0",
+  "homepage": "https://observablehq.com/@timhau/platonic-solids",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

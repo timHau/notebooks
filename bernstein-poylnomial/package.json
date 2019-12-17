@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/bernstein-poylnomial",
+  "main": "542f8e2ed35ce6d3@212.js",
+  "version": "212.0.0",
+  "homepage": "https://observablehq.com/@timhau/bernstein-poylnomial",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
