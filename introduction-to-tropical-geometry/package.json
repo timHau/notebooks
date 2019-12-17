@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/introduction-to-tropical-geometry",
+  "main": "fd09259adc0da1ec@4670.js",
+  "version": "4670.0.0",
+  "homepage": "https://observablehq.com/@timhau/introduction-to-tropical-geometry",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
