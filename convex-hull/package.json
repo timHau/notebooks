@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/convex-hull",
+  "main": "c7507a0c289058a6@760.js",
+  "version": "760.0.0",
+  "homepage": "https://observablehq.com/@timhau/convex-hull",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
