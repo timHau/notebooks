@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/circles-on-lines",
+  "main": "d4037d9095aa3317@183.js",
+  "version": "183.0.0",
+  "homepage": "https://observablehq.com/@timhau/circles-on-lines",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

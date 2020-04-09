@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/farn",
+  "main": "2bcccb6bcee14a90@447.js",
+  "version": "447.0.0",
+  "homepage": "https://observablehq.com/@timhau/farn",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/playing-with-matter-js",
+  "main": "b829b116a69ef3de@181.js",
+  "version": "181.0.0",
+  "homepage": "https://observablehq.com/@timhau/playing-with-matter-js",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

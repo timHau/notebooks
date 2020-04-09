@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/elementary-differential-geometry",
+  "main": "6f7f34138752bd22@1045.js",
+  "version": "1045.0.0",
+  "homepage": "https://observablehq.com/@timhau/elementary-differential-geometry",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

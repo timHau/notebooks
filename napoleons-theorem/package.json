@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/napoleons-theorem",
+  "main": "4e9edf166cfe9c8e@61.js",
+  "version": "61.0.0",
+  "homepage": "https://observablehq.com/@timhau/napoleons-theorem",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

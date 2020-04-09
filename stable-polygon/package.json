@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/stable-polygon",
+  "main": "7e5af1d2c370ec46@360.js",
+  "version": "360.0.0",
+  "homepage": "https://observablehq.com/@timhau/stable-polygon",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

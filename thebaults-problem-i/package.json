@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/thebaults-problem-i",
+  "main": "76f622283bc016b9@293.js",
+  "version": "293.0.0",
+  "homepage": "https://observablehq.com/@timhau/thebaults-problem-i",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

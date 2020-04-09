@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/broken-polygon-triangulation",
+  "main": "3665b85fd71662c4@730.js",
+  "version": "730.0.0",
+  "homepage": "https://observablehq.com/@timhau/broken-polygon-triangulation",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

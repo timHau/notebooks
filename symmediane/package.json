@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/symmediane",
+  "main": "e8c5e609b2b52482@753.js",
+  "version": "753.0.0",
+  "homepage": "https://observablehq.com/@timhau/symmediane",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

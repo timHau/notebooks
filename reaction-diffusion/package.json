@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/reaction-diffusion",
+  "main": "1ef9f239d9af098a@559.js",
+  "version": "559.0.0",
+  "homepage": "https://observablehq.com/@timhau/reaction-diffusion",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

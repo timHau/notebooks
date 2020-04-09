@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/concurrence-in-equilateral-triangle",
+  "main": "dd45773a87b5a329@288.js",
+  "version": "288.0.0",
+  "homepage": "https://observablehq.com/@timhau/concurrence-in-equilateral-triangle",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/knot",
+  "main": "7af9e96ead24004f@679.js",
+  "version": "679.0.0",
+  "homepage": "https://observablehq.com/@timhau/knot",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

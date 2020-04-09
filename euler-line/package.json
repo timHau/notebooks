@@ -1,0 +1,14 @@
+{
+  "name": "@timhau/euler-line",
+  "main": "097c7477795c8925@335.js",
+  "version": "335.0.0",
+  "homepage": "https://observablehq.com/@timhau/euler-line",
+  "author": {
+    "name": "tau",
+    "url": "https://observablehq.com/@timhau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
